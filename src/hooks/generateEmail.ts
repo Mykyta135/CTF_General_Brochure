@@ -87,7 +87,7 @@ export const generateMessage = (name: string, sellingPoints: iSellingPoint[], op
     <td style="text-align: right">${sp.price}</td>
     
   </tr>
-  <tr style="text-align: left"><ul>${sp.name === "Flexible" ?selectedCheckboxes.map((item) => `<li>${item}</li>`) : ""}</ul></tr>`).join('')}
+
 
             <tr>
               <td colspan="2" style="text-align: right; padding-top: 10px">
