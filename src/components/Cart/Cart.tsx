@@ -215,16 +215,6 @@ export default function Cart() {
               {cartSection.desc[0]}<br/>
               {cartSection.desc[5]} 
             </p>
-            <div>
-              {cartSection.salesHeading}
-              <ul>
-                <li className="list-disc"> {cartSection.desc[1]}</li>
-                <li className="list-disc"> {cartSection.desc[2]}</li>
-                <li className="list-disc"> {cartSection.desc[3]}</li>
-              </ul>
-            </div>
-
-            <p> {cartSection.desc[4]}</p>
           </div>
         </div>
 
