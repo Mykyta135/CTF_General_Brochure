@@ -87,6 +87,7 @@ export const generateMessage = (name: string, sellingPoints: iSellingPoint[], op
     <td style="text-align: right">${sp.price}</td>
     
   </tr>
+  `).join('')}
 
 
             <tr>
