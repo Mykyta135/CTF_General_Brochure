@@ -153,19 +153,7 @@ export const generateMessage = (name: string, sellingPoints: iSellingPoint[], op
     >
       <tr>
         <td style="padding: 20px">
-          <p style="color: #262626">
-            1. При купівлі одразу трьох додаткових опцій надається знижка -50$
-          </p>
-          <p style="color: #262626">
-            2. При купівлі одразу двох пакетів надається знижка -50$
-          </p>
-          <p style="color: #262626">
-            3. При купівлі одразу трьох пакетів надається знижка -150$
-          </p>
-          <p style="color: #; font-weight: 600">
-            * Знижки не поєднуються.
-          </p>
-
+         
           <p style="color: #262626">
             Очікуйте, зовсім скоро з вами зв'яжуться організатори проєкту для
             уточнення деталей та підтвердження участі. У випадку запитань
@@ -209,7 +197,7 @@ export const generateMessage = (name: string, sellingPoints: iSellingPoint[], op
         </td>
         <td style="padding: 20px">
           <p style="color: #262626; font-weight: bold">Вікторія Шевченко,</p>
-          <p style="color: #262626">відповідальний за корпоративні зв’язки</p>
+          <p style="color: #262626">відповідальна за корпоративні зв’язки</p>
           <p>
             <a style="color: #262626" href="tel:+300678640104">
               +380 67 86 40 104
