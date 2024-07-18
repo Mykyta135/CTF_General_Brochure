@@ -252,7 +252,7 @@ export const flexibleOfferContent = {
 }
 
 export const offerContent = {
-  heading: "Пропозиції",
+  heading: "Пропозиція",
   desc: "*10% від загальної суми буде передано на підтримку ЗСУ"
 }
 export const options: iOptional[] = [
